@@ -1,0 +1,55 @@
+{
+  "name": "OD&H Neon Greenwave",
+  "description": "A bold fusion of cyberpunk vibes and pastel elegance, crafted for the elite.",
+  "authors": [
+    {
+      "name": "Oblivion"
+    }
+  ],
+  "semanticColors": {
+    "ANDROID_RIPPLE": [ "#5b6477", "#5b6477" ],
+    "BACKGROUND_ACCENT": [ "#89d66f", "#89d66f" ],
+    "BACKGROUND_MENTIONED": [ "#89d66f17", "#89d66f17" ],
+    "BACKGROUND_MENTIONED_HOVER": [ "#7f88a8", "#7f88a8" ],
+    "BACKGROUND_MODIFIER_ACCENT": [ "#2b2e3d", "#2b2e3d" ],
+    "BACKGROUND_MODIFIER_ACTIVE": [ "#2b2e3d", "#2b2e3d" ],
+    "BACKGROUND_MODIFIER_HOVER": [ "#2b2e3d", "#2b2e3d" ],
+    "BACKGROUND_MODIFIER_SELECTED": [ "#2b2e3d", "#2b2e3d" ],
+    "BACKGROUND_MOBILE_PRIMARY": [ "#181a25", "#14141c" ],
+    "BACKGROUND_MOBILE_SECONDARY": [ "#14141c", "#14141c" ],
+    "BACKGROUND_NESTED_FLOATING": [ "#14141c", "#0e0e16" ],
+    "BACKGROUND_PRIMARY": [ "#181a25", "#14141c" ],
+    "BACKGROUND_SECONDARY": [ "#14141c", "#181a25" ],
+    "BACKGROUND_SECONDARY_ALT": [ "#14141c", "#3c3f52" ],
+    "BACKGROUND_TERTIARY": [ "#0e0e16", "#2b2e3d" ],
+    "BG_BASE_PRIMARY": [ "#181a25", "#181a25" ],
+    "BG_BASE_SECONDARY": [ "#14141c", "#14141c" ],
+    "BG_BASE_TERTIARY": [ "#0e0e16", "#0e0e16" ],
+    "CHAT_BACKGROUND": [ "#181a25", "#2b2e3d" ],
+    "HEADER_PRIMARY": [ "#d4e0fc", "#d4e0fc" ],
+    "HEADER_SECONDARY": [ "#b2b9d5", "#b2b9d5" ],
+    "INPUT_BACKGROUND": [ "#0e0e16", "#0e0e16" ],
+    "INTERACTIVE_ACTIVE": [ "#d4e0fc", "#d4e0fc" ],
+    "INTERACTIVE_HOVER": [ "#7f88a8", "#7f88a8" ],
+    "INTERACTIVE_MUTED": [ "#9ba6c3", "#9ba6c3" ],
+    "TEXT_LINK": [ "#89d66f", "#89d66f" ],
+    "TEXT_NORMAL": [ "#d4e0fc", "#d4e0fc" ],
+    "TEXT_PRIMARY": [ "#d4e0fc", "#d4e0fc" ]
+  },
+  "rawColors": {
+    "BRAND_260": "#5b6477",
+    "BRAND_300": "#89d66f",
+    "BRAND_500": "#89d66f",
+    "PRIMARY_100": "#d4e0fc",
+    "PRIMARY_400": "#7f88a8",
+    "PRIMARY_600": "#2b2e3d",
+    "PLUM_3": "#d4e0fc",
+    "PLUM_4": "#89d66f",
+    "GREEN_100": "#89d66f",
+    "GREEN_300": "#89d66f",
+    "GREEN_700": "#89d66f",
+    "GUILD_BOOSTING_PINK": "#f8b4e3",
+    "GUILD_BOOSTING_PURPLE": "#b086fa",
+    "ORANGE_300": "#f5a36f"
+  }
+}
